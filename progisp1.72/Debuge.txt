@@ -1,3 +1,0 @@
-install WinAvr firmware.
-Disable driver signature enforcement.
-Install driver using driver maneger.
